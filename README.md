@@ -47,10 +47,7 @@ Currency Converter is a simple React application that allows users to convert be
 - The conversion result will automatically appear as you type or change currencies.
 - Use the swap button to quickly reverse the currencies and get the conversion result.
 
-## Important Notes
 
-- Make sure to add your API key to the `.env` file as shown above. The API key is required to fetch real-time exchange rates.
-- Do not share your API key publicly. Always exclude sensitive information like API keys when sharing your project by including `.env` in `.gitignore`.
 
 ## Technologies Used
 
